@@ -6,4 +6,4 @@ Hello NodeJS and NPM (nvm too)!
 1. Install `nvm` and add it to PATH
 2. Use `nvm install <version>` to install that version of NodeJS.
 3. Use `nvm use <version>` to use that version of NodeJS.
-4. Use `npm init' to initialize an empty folder with as a NodeJS app. 
+4. Use `npm init` to initialize an empty folder with as a NodeJS app. 
